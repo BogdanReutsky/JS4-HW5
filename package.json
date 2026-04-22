@@ -4,8 +4,8 @@
   "description": "",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
-    "dev": "npx parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /JS4-HW5/",
+   "dev": "parcel src/index.html",
+   "build": "parcel build src/index.html --public-url /JS4-HW5/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
