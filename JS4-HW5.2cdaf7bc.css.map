@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;AAQA","sources":["src/style.css"],"sourcesContent":["h2{\r\n    font-size: 50px;\r\n}\r\n\r\n.letter{\r\n    font-size: 50px;\r\n}\r\n\r\n.btn{\r\n    padding: 20px 30px;\r\n    background-color: yellow;\r\n    border-radius: 20px;\r\n}"],"names":[],"version":3,"file":"JS4-HW5.2cdaf7bc.css.map","sourceRoot":"/__parcel_source_root/"}
