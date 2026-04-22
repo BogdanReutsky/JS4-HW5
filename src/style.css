@@ -1,0 +1,13 @@
+h2{
+    font-size: 50px;
+}
+
+.letter{
+    font-size: 50px;
+}
+
+.btn{
+    padding: 20px 30px;
+    background-color: yellow;
+    border-radius: 20px;
+}
